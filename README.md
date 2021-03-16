@@ -6,5 +6,9 @@ Out of box example link: https://dev.ti.com/tirex/explore/node?node=AIHy77joqu3j
 ![demo](https://user-images.githubusercontent.com/53046813/111251215-c1609900-8649-11eb-804f-19f9aedd31f7.png)
 
 *detected_points.py:Initialize IWR6843 and create TLV data stream.
+
+
 *visualize.py:Obtain and visualize point cloud data stream.
+
+
 *radar.py:Parse TLV.
