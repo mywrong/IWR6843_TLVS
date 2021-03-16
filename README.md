@@ -11,4 +11,7 @@ detected_points.py: Initialize IWR6843 and create TLV data stream.
 visualize.py: Obtain and visualize point cloud data stream.
 
 
-radar.py: Parse TLV.
+radar.py: Parse TLV.Export the configuration file according to mmWave Demo Visualizer.
+
+
+![image](https://user-images.githubusercontent.com/53046813/111252917-1fdb4680-864d-11eb-8625-dd03e551006e.png)
